@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **ExpressJS, NodeJS, Cyber Security**
+- 💬 Ask me about **ExpressJS, Fastify, React&Redux, NodeJS, Cyber Security**
 
 - 📫 How to reach me **itsme@grexlin85.com**
 
