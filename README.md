@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LilDIS](https://github.com/GreXLin85/LilDIS-local)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **ExpressJS, Fastify, React&Redux, NodeJS, Cyber Security**
 
