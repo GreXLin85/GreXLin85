@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grexlin85" alt="grexlin85" /></a> </p>
 
-- 🔭 I’m currently working on [Owlerion](https://www.owlerion.com)
+- 🔭 I’m currently working on [LilDIS](https://github.com/GreXLin85/LilDIS-local)
 
 - 🌱 I’m currently learning **React**
 
