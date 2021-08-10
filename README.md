@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ExpressJS, Fastify, React&Redux, NodeJS, Cyber Security**
 
-- 📫 How to reach me **itsme@grexlin85.com**
+- 📫 How to reach me **grexlin85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
