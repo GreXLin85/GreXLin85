@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GreXLin85</h1>
 <h3 align="center">A NodeJS developer from TRNC.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grexlin85" alt="grexlin85" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grexlin85&theme=onedark" alt="grexlin85" /></a> </p>
 
 - 🔭 I’m currently working on [LilDIS](https://github.com/GreXLin85/LilDIS-local)
 
