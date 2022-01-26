@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **ExpressJS, Fastify, React&Redux, NodeJS, Cyber Security**
+- 💬 Ask me about **ExpressJS, Fastify, React, NodeJS, Cyber Security**
 
 - 📫 How to reach me **grexlin85@gmail.com**
 
