@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grexlin85&theme=onedark" alt="grexlin85" /></a> </p>
 
-- 🔭 I’m currently working on [LilDIS](https://github.com/GreXLin85/LilDIS-local)
+- 🔭 I’m currently working at [GUNSEL](https://www.gunsel.com.tr/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **ExpressJS, Fastify, React, NodeJS, Cyber Security**
 
