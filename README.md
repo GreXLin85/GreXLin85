@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [GUNSEL](https://www.gunsel.com.tr/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **ExpressJS, Fastify, React, NodeJS, Cyber Security**
 
