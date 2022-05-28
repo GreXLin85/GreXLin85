@@ -3,10 +3,10 @@
 ### <div align="center">I'm Erol Umut, a web developer 👨‍💻 working remotely since 2019 🚀</div>  
 
 
-- 🔭 I’m currently working at [GÜNSEL](https://www.gunsel.com.tr/)  
+- 🔭 I’m currently open to new opportunities 
   
 
-- 🌱 I’m currently learning GraphQL & REDIS  
+- 🌱 I’m currently learning Docker  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
