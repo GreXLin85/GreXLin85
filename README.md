@@ -6,7 +6,7 @@
 - 🔭 I’m currently open to new opportunities 
   
 
-- 🌱 I’m currently learning Docker  
+- 🌱 I’m currently learning C++
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
