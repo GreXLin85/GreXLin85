@@ -3,7 +3,7 @@
 ### <div align="center">I'm Erol Umut, a web developer 👨‍💻 working remotely since 2019 🚀</div>  
 
 
-- 🔭 I’m currently open to new opportunities 
+- 🔭 I’m currently open to new freelance opportunities 
   
 
 - 🌱 I’m currently learning NextJS
