@@ -67,7 +67,10 @@
 </td></tr></table>  
 
 <br/>  
-
+<div align="center">
+<img src="https://myreadme.vercel.app/api/embed/grexlin85?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimagined readme" />
+</div>
+<br/>
 
 ## Connect with me  
 <div align="center">
