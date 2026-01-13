@@ -1,7 +1,7 @@
 # Hi, I'm Erol 👋
 
 I'm a backend developer focused on building reliable APIs, automation-heavy systems, and self-hosted infrastructure.
-Most of my work is in **TypeScript** (NestJS), **PostgreSQL** (Prisma), and **Docker-based deployments**.
+Most of my work is in **TypeScript** (NestJS).
 
 ---
 
