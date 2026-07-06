@@ -1,36 +1,18 @@
 # Hi, I'm Erol 👋
 
-I'm a backend developer focused on building reliable APIs, automation-heavy systems, and self-hosted infrastructure.
-Most of my work is in **TypeScript** (NestJS).
+Backend developer focused on reliable APIs, automation-heavy systems, and self-hosted infrastructure.
+I mostly work with **TypeScript** and **NestJS**, building REST services, workers, schedulers, and backend systems.
 
----
+I also work with **PostgreSQL**, **Redis**, **Prisma**, **Docker**, **Coolify**, and reverse proxy setups.
+Currently learning **Rust**.
 
-## What I work on
-- **Backend services & APIs** (REST, microservices, gateways)
-- **Automation & bots** (workers, schedulers, data pipelines)
-- **DevOps / self-hosting** (containers, reverse proxies, monitoring)
-- **Web3 + iGaming** (Solana-based wallet/transaction flows and backend reliability)
+## Focus Areas
 
----
-
-## Tech I use
-**Languages**
-- TypeScript / JavaScript
-- SQL
-- Learning: Rust
-
-**Backend**
-- NestJS
-- Prisma
-- PostgreSQL
-- Redis
-
-**Infrastructure**
-- Docker
-- Coolify
-- Reverse proxy setups (Traefik/Caddy style)
-
----
+* Backend APIs & microservices
+* Automation, bots & data pipelines
+* DevOps / self-hosting
+* Web3 + iGaming backend systems
 
 ## Contact
-- LinkedIn: [Click Me](https://www.linkedin.com/in/erol-umut-atalay/)
+
+[LinkedIn](https://www.linkedin.com/in/erol-umut-atalay/)
